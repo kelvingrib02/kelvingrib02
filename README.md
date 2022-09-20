@@ -1,5 +1,4 @@
 ### Olá! me chamo Kelvin Gabriel
 
-- 🔭 Atualmente trabalhando como estagiário focado em TI na Embraer, ajudando a empresa em automatizações na área da produção.
-- 📖 Estudando sobre Desenvolvimento Web e sempre dando uma olhada em Python.
-- 🔍 Procurando vaga para Desenvolvedor Jr.
+- 🔭 Consultor Trainee na TWRT.
+- 📖 Me especializando cada dia mais para melhores resultados.
