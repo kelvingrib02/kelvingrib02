@@ -7,15 +7,6 @@ I enjoy designing and implementing services that connect systems, automate proce
 
 ---
 
-## 🔎 About Me
-
-- Working as a **Squad Leader**, helping to organize tasks, support the team, and align deliveries with business goals
-- Junior developer (around level 5 in my journey), constantly improving my technical and architectural skills
-- Strong interest in back-end, system integration, and low-code platforms that accelerate digital solutions
-- Motivated by solving real problems, understanding business rules, and turning them into clean and maintainable code
-
----
-
 ## 📚 Currently Learning
 
 - Advanced .NET / .NET Core for scalable back-end solutions
