@@ -1,6 +1,6 @@
-# Kelvin Gabriel Ribeiro
+# Hi! I'm Kelvin
 
-Hi! I'm Kelvin, a **Squad Leader** and **Junior Software Developer** with a strong interest in back-end development, API integration, and data-driven solutions.
+I'm a **Squad Leader** and **Junior Software Developer** with a strong interest in back-end development, API integration, and data-driven solutions.
 I also explore low-code development with Mendix, combining traditional coding with rapid application delivery.
 
 I enjoy designing and implementing services that connect systems, automate processes, and make applications more intelligent through integrations with APIs and AI services.
