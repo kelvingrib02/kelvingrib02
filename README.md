@@ -16,25 +16,6 @@ I enjoy designing and implementing services that connect systems, automate proce
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
-- **Back-end & Languages**
-  `.NET` · `.NET Core` · `C#` · `VB.NET` · `Python`
-
-- **Web & Front-end**
-  `HTML` · `CSS` · `JavaScript` · `TypeScript`
-
-- **Databases**
-  `SQL Server` · `MySQL`
-
-- **Low-code**
-  `Mendix (learning and experimenting with low-code application development)`
-
-- **Other Focus Areas**
-  REST APIs · integrations with AI services · automation and system communication
-
----
-
 ## 📚 Currently Learning
 
 - Advanced .NET / .NET Core for scalable back-end solutions
@@ -48,6 +29,12 @@ I enjoy designing and implementing services that connect systems, automate proce
 - Becoming stronger as a back-end developer and technical reference in integrations
 - Improving how I support my squad in planning, communication, and delivery
 - Exploring how AI and low-code platforms (like Mendix) can accelerate development without losing quality
+
+---
+
+## 📑 Certifications
+
+- 🧠 PSM I – Professional Scrum Master I (Scrum.org)
 
 ---
 
