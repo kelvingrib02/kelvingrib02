@@ -1,17 +1,17 @@
 # Kelvin Gabriel Ribeiro
 
-Hi! I'm Kelvin, a **Squad Leader** and **Junior Software Developer** with a strong interest in **back-end development**, **API integration**, and **data-driven solutions**.
-I also explore **low-code development with Mendix**, combining traditional coding with rapid application delivery.
+Hi! I'm Kelvin, a **Squad Leader** and **Junior Software Developer** with a strong interest in back-end development, API integration, and data-driven solutions.
+I also explore low-code development with Mendix, combining traditional coding with rapid application delivery.
 
-I enjoy designing and implementing services that connect systems, automate processes, and make applications more intelligent through **integrations with APIs and AI services**.
+I enjoy designing and implementing services that connect systems, automate processes, and make applications more intelligent through integrations with APIs and AI services.
 
 ---
 
 ## 🔎 About Me
 
 - Working as a **Squad Leader**, helping to organize tasks, support the team, and align deliveries with business goals
-- Junior developer (around **level 5** in my journey), constantly improving my technical and architectural skills
-- Strong interest in **back-end**, **system integration**, and **low-code platforms** that accelerate digital solutions
+- Junior developer (around level 5 in my journey), constantly improving my technical and architectural skills
+- Strong interest in back-end, system integration, and low-code platforms that accelerate digital solutions
 - Motivated by solving real problems, understanding business rules, and turning them into clean and maintainable code
 
 ---
@@ -31,24 +31,23 @@ I enjoy designing and implementing services that connect systems, automate proce
   `Mendix (learning and experimenting with low-code application development)`
 
 - **Other Focus Areas**
-  REST **APIs** · integrations with **AI services** · automation and system communication
+  REST APIs · integrations with AI services · automation and system communication
 
 ---
 
 ## 📚 Currently Learning
 
-- Advanced **.NET / .NET Core** for scalable back-end solutions
-- Better practices in **clean code**, **SOLID principles**, and maintainable architecture
-- **API design** and integration patterns for distributed systems
-- **Low-code with Mendix**: building applications faster while keeping good architecture and integration practices
+- Advanced .NET / .NET Core for scalable back-end solutions
+- API design and integration patterns for distributed systems
+- Low-code with Mendix: building applications faster while keeping good architecture and integration practices
 
 ---
 
 ## 🎯 What I’m Focused On
 
-- Becoming stronger as a **back-end developer** and technical reference in integrations
+- Becoming stronger as a back-end developer and technical reference in integrations
 - Improving how I support my squad in planning, communication, and delivery
-- Exploring how **AI** and **low-code platforms** (like Mendix) can accelerate development without losing quality
+- Exploring how AI and low-code platforms (like Mendix) can accelerate development without losing quality
 
 ---
 
