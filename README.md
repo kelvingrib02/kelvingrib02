@@ -52,19 +52,6 @@ I enjoy designing and implementing services that connect systems, automate proce
 
 ---
 
-## 📊 GitHub Overview
-
-<div align="center" style="display: flex; gap: 25px;">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula"/>
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=dracula&langs_count=16&layout=compact"/>
-  </div>
-</div>
-
----
-
 ## 🧩 Technologies & Platforms
 
 <div align="center" style="display: inline-block;"><br>
@@ -72,6 +59,7 @@ I enjoy designing and implementing services that connect systems, automate proce
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" style="width: 40px; height: 40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="width: 40px; height: 40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="width: 40px; height: 40px"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/visualbasic.svg" style="width: 40px; height: 40px;" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="width: 40px; height: 40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="width: 40px; height: 40px"/>
@@ -80,8 +68,6 @@ I enjoy designing and implementing services that connect systems, automate proce
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="width: 40px; height: 40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" style="width: 40px; height: 40px"/>
-
-  <!-- Mendix não tem ícone oficial no devicon; você pode adicionar outro link de imagem aqui se quiser -->
 </div>
 
 ---
@@ -89,10 +75,10 @@ I enjoy designing and implementing services that connect systems, automate proce
 ## 📫 Contact
 
 <div align="center">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/kelvinribeiro/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL_HERE">
+  <a href="mailto:kelvinribei03@gmail.com">
     <img src="https://img.shields.io/badge/-Email-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
