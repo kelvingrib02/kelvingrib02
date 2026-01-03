@@ -20,6 +20,7 @@ I enjoy designing and implementing services that connect systems, automate proce
 - Becoming stronger as a back-end developer and technical reference in integrations
 - Improving how I support my squad in planning, communication, and delivery
 - Exploring how AI and low-code platforms (like Mendix) can accelerate development without losing quality
+- My focus is on improving my technical skills to help my team with the best ideas
 
 ---
 
